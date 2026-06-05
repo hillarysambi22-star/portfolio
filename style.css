@@ -13,8 +13,8 @@ body{
     
     align-items: center;
     font-family: Bodoni Moda, serif;
-    font-size: 135px;
-    color: rgb(249, 96, 147);
+    font-size: 200px;
+    color: red;
 }
 button{
     justify-content: center;
